@@ -1,0 +1,23 @@
+@import "./components/styles/variables.scss" ;
+@import "./components/styles/todoList.scss";
+@import "./components/styles/button.scss";
+
+html {
+  background: #ddd;
+  height: 100%;
+  display: flex;
+}
+body {
+  width: 100%;
+  margin: auto;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+
+
